@@ -1,0 +1,632 @@
+
+body
+{
+	margin:0px;
+	padding:0px;
+}
+.banner
+{
+	width:100%;
+	height:664px;
+	background:url(../images/slide-5.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.logo
+{
+	width:12%;
+	height:150px;
+	background:#fed05f;
+	border-radius:1000px;
+	margin-left:-30px;
+	margin-top:-50px;
+}
+.logo h1
+{
+	font-size:17px;
+	color:white;
+	padding-top:70px;
+	margin-left:32px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+.menu
+{
+	width:45%;
+	height:100px;
+	
+	float:right;
+	margin-top:-100px;
+}
+ul
+{
+	list-style-type:none;
+}
+
+li
+{
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	color:#4c4c4c;
+	padding:2px 10px;
+	display:block;
+	height:15px;
+	letter-spacing:2px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+}
+.baby
+{
+	width:70%;
+	height:200px;
+	float:left;
+}
+.baby h1
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:20px;
+}
+.baby p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left:20px;
+	font-size:20px;
+}
+.img1 
+{
+	width:30%;
+	height:300px;
+	background:url(../../photoshop/shape.jpg);
+	float:left;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+	
+
+}
+.img1 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-top:60px;
+	padding-left:90px;
+	font-size:20px;
+	color:white;
+	line-height:30px;
+	
+
+}
+.img2
+{
+	width:40%;
+	height:300px;
+	float:left;
+	background:green;
+	margin-top:-50px;
+}
+.txt1
+{
+	width:60%;
+	height:300px;
+	float:left;
+	margin-top:-50px;
+}
+.i1
+{
+	width:100%;
+	height:300px;
+}
+.txt1 h1
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:25px;
+	padding-left:250px;
+	text-decoration:underline;
+}
+.txt1 p
+{
+	padding-left:300px;
+	font-size:20px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	line-height:60px;
+}
+.gallery
+{
+	width:50%;
+	height:300px;
+	float:left;
+}
+.txt2
+{
+	width:50%;
+	height:300px;
+	background:#faf3f6;
+	float:left;
+}
+.g1
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+
+.g2
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+.g3
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+.g4
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+
+.g5
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+.g6
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+.g7
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+
+.g8
+{
+	margin:15px;
+	width:20%;
+	height:125px;
+
+}
+
+.txt2 h1
+{
+	font-size:28px;
+	padding-left:250px;
+}
+
+.txt2 p
+{
+	font-size:20px;
+	padding-left:20px;
+	line-height:40px;
+}
+.categories
+{
+	width:100%;
+	height:250px;
+	float:left;
+}
+.categories h1
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:28px;
+	
+}
+
+.sh1
+{
+	width:200px;
+	height:170px;
+	margin-left:200px;
+	margin-top:-30px;
+	background-image:url(../../photoshop/sh1.jpg);
+	float:left;
+}
+
+.sh2
+{
+	width:200px;
+	height:170px;
+	float:left;
+	margin-left:200px;
+	margin-top:-30px;
+	background-image:url(../../photoshop/sh2.jpg);
+}
+
+.sh3
+{
+	width:200px;
+	height:170px;
+	float:left;
+	margin-left:200px;
+	margin-top:-30px;
+	background-image:url(../../photoshop/sh3.jpg);
+}
+.sh1 h2
+{
+	margin-top:80px;
+	margin-left:50px;
+	color:#FFF;
+}
+
+.sh2 h2
+{
+	margin-top:80px;
+	margin-left:60px;
+	color:#FFF;
+}
+
+.sh3 h2
+{
+	margin-top:80px;
+	margin-left:50px;
+	color:#FFF;
+}
+.shop
+{
+	width:100%;
+	height:450px;
+	float:left;
+}
+.shop h1
+{
+	font-size:28px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-top:-10px;
+}
+.d1
+{
+	width:23%;
+	height:400px;
+	background:white;
+	border:1px solid black;
+	margin-left:20px;
+	float:left;
+}
+
+.d2
+{
+	width:23%;
+	height:400px;
+	background:white;
+	border:1px solid black;
+	margin-left:20px;
+	float:left;
+}
+.d3
+{
+	width:23%;
+	height:400px;
+	background:white;
+	border:1px solid black;
+	margin-left:20px;
+	float:left;
+}
+.d4
+{
+	width:23%;
+	height:400px;
+	background:white;
+	border:1px solid black;
+	margin-left:20px;
+	float:left;
+	
+}
+.d1 h1,.d2 h1,.d3 h1,.d4 h1
+{
+	font-size:20px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-top:2px;
+}
+.pic1
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i1.jpg);
+	background-size:cover;
+	float:left;
+	margin-left:5px;
+	
+}
+.pic2
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i3.jpg);
+	background-size:cover;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+.t1
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+}
+.t2
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+
+.pic3
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i2.jpg);
+	background-size:cover;
+	float:left;
+	margin-left:5px;
+	
+}
+.pic4
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i4.jpg);
+	background-size:cover;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+.t3
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+}
+.t4
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+.pic5
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i5.jpg);
+	background-size:cover;
+	
+	float:left;
+	margin-left:5px;
+	
+}
+.pic6
+{
+	width:40%;
+	height:150px;
+	background:url(../images/i6.jpg);
+	background-size:cover;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+.t5
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+}
+.t6
+{
+	width:55%;
+	height:150px;
+	float:left;
+	margin-left:5px;
+	margin-top:5px;
+}
+.t1 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:25px;
+	line-height:35px;
+	margin-left:10px;
+}
+.bt1,.bt2,.bt3,.bt4,.bt5,.bt6
+{
+	background:#039;
+	color:white;
+	border:hidden;
+	margin-left:50px;
+	height:25px;
+}
+.t2 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:5px;
+	line-height:35px;
+	margin-left:10px;
+}
+.t3 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:5px;
+	line-height:35px;
+	margin-left:10px;
+}
+.t4 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:5px;
+	line-height:35px;
+	margin-left:10px;
+}
+
+.t5 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:5px;
+	line-height:35px;
+	margin-left:10px;
+}
+.t6 p
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:17px;
+	word-spacing:5px;
+	line-height:35px;
+	margin-left:10px;
+}
+.sell1,.sell2,.sell3,.sell4
+{
+	width:30%;
+	height:150px;
+	float:left;
+	margin-left:10px;
+	
+}
+.sel1
+{
+	
+	width:120px;
+	height:120px;
+	background-size:cover;
+	margin-left:20px;
+}
+.sel2
+{
+	
+	width:120px;
+	height:120px;
+	background-size:cover;
+	margin-left:20px;
+	
+	
+}
+.sel3
+{
+	
+	width:120px;
+	height:120px;
+	background-size:cover;
+	margin-left:20px;
+	margin-top:30px;
+	
+}
+
+.sel4
+{
+	
+	width:120px;
+	height:120px;
+	background-size:cover;
+	margin-left:20px;
+	margin-top:30px;
+}
+.view1,.view2,.view3
+{
+	height:30px;
+	background:#039;
+	color:white;
+	border:hidden;
+	margin-left:120px;
+	margin-top:15px;
+}
+.footer
+{
+	width:100%;
+	height:40px;
+	
+	float:left;
+}
+.footer table
+
+{
+	
+	margin-left:10px;
+	
+}
+
+.footer h1,h2,h3
+{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:20px;
+	
+}
+
+.insta
+{
+	width:50px;
+	height:50px;
+	color:#C06;
+	float:left;
+	margin-left:150px;
+	margin-top:-35px;
+}
+.fb
+
+{
+	width:50px;
+	height:50px;
+	color:#009;
+	float:left;
+	margin-top:-35px;
+}
+.tw
+
+{
+	width:50px;
+	height:50px;
+	color:#0CF;
+	float:left;
+	margin-top:-35px;
+}
+
+.ln
+
+{
+	width:50px;
+	height:50px;
+	color:#009;
+	float:left;
+	margin-top:-35px;
+}
+.fa-search
+{
+	color:#CC3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
